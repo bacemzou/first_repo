@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 ooooo
+=======
+nnnnn
+>>>>>>> 83ce4fb (1 nnn)
 aaaaaaaaaaaaaaaaaaaaaaaaa
