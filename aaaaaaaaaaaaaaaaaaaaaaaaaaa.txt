@@ -1,10 +1,2 @@
-<<<<<<< HEAD
 bbbbb
-=======
-<<<<<<< HEAD
-ooooo
-=======
-nnnnn
->>>>>>> 83ce4fb (1 nnn)
->>>>>>> origin/third_branch
 aaaaaaaaaaaaaaaaaaaaaaaaa
